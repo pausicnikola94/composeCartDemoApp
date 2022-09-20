@@ -39,7 +39,7 @@ fun TopAppBar(navController: NavController, mainViewModel: MainViewModel){
             null
         }
     TopAppBar(
-        title = { Text(text = "ComposeDemoApp") },
+        title = { Text(text = "ComposeCartDemoApp") },
         backgroundColor = MaterialTheme.colors.primary,
         navigationIcon = navigationIcon,
         actions = {
